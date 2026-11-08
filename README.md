@@ -33,23 +33,11 @@
 
 ## 挂到自己的博客上
 
-单独开一个页面当然可以，但我更想让它「住」在我自己的博客里。
+单独开一个页面当然可以，但我更想让它「住」在我自己的博客里。于是做了专门的内页，打开就是完整的小窗体验：
 
-所以我做了两层：
+→ [https://www.maynor1024.live/shangban-guliqi/](https://www.maynor1024.live/shangban-guliqi/)
 
-1. **内页应用**：专门的一页，打开就是完整的小窗体验  
-   → [https://www.maynor1024.live/shangban-guliqi/](https://www.maynor1024.live/shangban-guliqi/)
-
-2. **博客首页左下角浮动入口**：平时逛博客，左下角会冒出一个小入口，一点就能进去玩  
-   → [https://www.maynor1024.live/](https://www.maynor1024.live/)
-
-![博客首页左下角入口](https://upload.maynor1024.live/file/1794152432211_homepage-entry.png)
-
-另外还有一份挂在 Cloudflare Worker 上的独立地址，方便单独分享、不绕博客导航：
-
-→ [https://shangban-guliqi.chatgpt-plus.workers.dev](https://shangban-guliqi.chatgpt-plus.workers.dev)
-
-从「本地能跑」到「博客里能点」，中间就是常见的那套：页面写好、静态资源丢上去、域名指好、再在首页塞一个不挡事的浮动入口。没什么黑科技，就是一点点磨到「自己打开也觉得顺眼」。
+从「本地能跑」到「博客里能点」，中间就是常见的那套：页面写好、静态资源丢上去、域名指好。没什么黑科技，就是一点点磨到「自己打开也觉得顺眼」。
 
 ## 它到底鼓励了谁？
 
@@ -65,8 +53,6 @@
 
 如果你也想摸一下：
 
-- 博客入口：[https://www.maynor1024.live/](https://www.maynor1024.live/)（首页左下角）
-- 内页：[https://www.maynor1024.live/shangban-guliqi/](https://www.maynor1024.live/shangban-guliqi/)
-- Worker：[https://shangban-guliqi.chatgpt-plus.workers.dev](https://shangban-guliqi.chatgpt-plus.workers.dev)
+→ [https://www.maynor1024.live/shangban-guliqi/](https://www.maynor1024.live/shangban-guliqi/)
 
 欢迎白嫖，也欢迎吐槽。下次再摸鱼的时候，记得看一眼：你这秒，其实已经进账了。
