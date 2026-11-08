@@ -29,11 +29,11 @@
 
 深色、浅色主题都能切。摸鱼的时候开深色，像夜里加班的氛围灯；正经开会切浅色，也不至于太扎眼。
 
-![上班鼓励器主界面](./images/app-main.png)
+![上班鼓励器主界面](https://upload.maynor1024.live/file/1794152435910_app-main.png)
 
 设置面板里可以填月薪、工作日、上下班时间这些——算出来的时薪会直接挂在小窗底下。调完关掉，小窗继续飘着，不影响你假装在看文档。
 
-![设置面板](./images/settings.png)
+![设置面板](https://upload.maynor1024.live/file/1794152425455_settings.png)
 
 ## 挂到自己的博客上
 
@@ -47,7 +47,7 @@
 2. **博客首页左下角浮动入口**：平时逛博客，左下角会冒出一个小入口，一点就能进去玩  
    → [https://www.maynor1024.live/](https://www.maynor1024.live/)
 
-![博客首页左下角入口](./images/homepage-entry.png)
+![博客首页左下角入口](https://upload.maynor1024.live/file/1794152432211_homepage-entry.png)
 
 另外还有一份挂在 Cloudflare Worker 上的独立地址，方便单独分享、不绕博客导航：
 
